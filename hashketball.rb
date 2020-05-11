@@ -39,7 +39,7 @@ def game_hash
           blocks: 1,
           slam_dunks: 15
         },
-      {
+        {
           player_name: "Mason Plumlee",
           number: 1,
           shoe: 19,
@@ -48,7 +48,8 @@ def game_hash
           assists: 6,
           steals: 3,
           blocks: 8,
-          
+          slam_dunks: 5
+        },
       },
         player_name: "JasonTerry" => {
         number: 0,
