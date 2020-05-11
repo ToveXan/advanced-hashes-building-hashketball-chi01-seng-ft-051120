@@ -1,5 +1,5 @@
 # Write your code here!
-recquire 'pry'
+require 'pry'
 def game_hash 
   { 
   home: {
@@ -114,4 +114,4 @@ def game_hash
     }
   }
 }
-
+binding.pry
