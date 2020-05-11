@@ -1,4 +1,5 @@
 # Write your code here!
+recquire 'pry'
 def game_hash 
   { 
   home: {
@@ -111,7 +112,6 @@ def game_hash
         slam_dunks: 12,
       }
     }
-    
   }
-  
 }
+
